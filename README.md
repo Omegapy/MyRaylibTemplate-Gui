@@ -8,8 +8,9 @@ The template is slim and easy to use. :raised_hands:
 
 It is one of the fastest ways to be up and coding using the raylib library and raygui. :runner:
 
-Follow the link below for the guidelines on how to utilize the template:
+Follow the link below for the (video) guidelines on how to utilize this template:
 
+![MyRaylibTemplate-gui](https://user-images.githubusercontent.com/121726699/211132030-a3d46ff2-8f57-4842-b038-bee14d2e8b43.PNG)
 
 Note that the template (main.c) includes the controls_test_suite.c example from https://github.com/raysan5/raygui/tree/master/examples
 
